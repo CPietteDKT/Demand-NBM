@@ -1,0 +1,179 @@
+{
+  "version": 1,
+  "skills": {
+    "blast-radius-analyzer": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/blast-radius-analyzer/SKILL.md",
+      "computedHash": "12561da344b848a218147d3031e06031b5a0c009c1cd6951b9ddc85e3e933255"
+    },
+    "business-data": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/business-data/SKILL.md",
+      "computedHash": "d3c9eb712e6826ef4fd2bbf37d850dcf3aefe4763483ce78cb5236a8cabb80eb"
+    },
+    "business-impact-estimator": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/business-impact-estimator/SKILL.md",
+      "computedHash": "ffdb828beca6fba2a6c31528b0e45f16339308f618564302ea62ca3ee17ae622"
+    },
+    "content-design": {
+      "source": "dktunited/agent-skills",
+      "sourceType": "github",
+      "skillPath": "design/content-design/SKILL.md",
+      "computedHash": "5682065d1d9fddcfa5717efc00eb31d36503882c3b1bc81808774946b240fa02"
+    },
+    "cybersecurity-threat-modeling": {
+      "source": "dktunited/agent-skills",
+      "sourceType": "github",
+      "skillPath": "cybersecurity/cybersecurity-threat-modeling/SKILL.md",
+      "computedHash": "87c46292183a05619f891c8ec1b7f6b50b9701c1236daeb8590c59fc024b4a83"
+    },
+    "databricks-cli": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/databricks-cli/SKILL.md",
+      "computedHash": "cb8d8b37ceb4823a823cb00eb4ba6c9899a771b89662f0e736a0d7216c4a31c2"
+    },
+    "decathlon-ai-augmented-development-docs": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/decathlon-ai-augmented-development-docs/SKILL.md",
+      "computedHash": "888b611f402662f4d81de8aad83eedf494bc8e07a993f6ba4d0ad477fdfd22e9"
+    },
+    "decathlon-api-discovery": {
+      "source": "dktunited/agent-skills",
+      "sourceType": "github",
+      "skillPath": "architecture/decathlon-api-discovery/SKILL.md",
+      "computedHash": "fb1af7c0e1a7c88d38f7b789fbc61f9fdde992df1e5ab839fb61589836bcaf79"
+    },
+    "decathlon-api-tool": {
+      "source": "dktunited/agent-skills",
+      "sourceType": "github",
+      "skillPath": "architecture/decathlon-api-tool/SKILL.md",
+      "computedHash": "fce491f2bb0a229d252f126f885754b2bb48247d55bed86076f5d17de9f2b25a"
+    },
+    "decathlon-find-mcp-server": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/decathlon-find-mcp-server/SKILL.md",
+      "computedHash": "dc07f0eb9252a5bd5e1de64ff99af20ec8733b4660acbda082685e4426fa5568"
+    },
+    "decathlon-find-skills": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/decathlon-find-skills/SKILL.md",
+      "computedHash": "a5861ae06223f48e19424c6fd25035cddf9219fc9b1f1dc5aa8050f4e00cdfbb"
+    },
+    "decathlon-pixl-search": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/decathlon-pixl-search/SKILL.md",
+      "computedHash": "1e938404d5b24277746ab40f782c607c91b46aa62cdbbef03eabddc2f4c7d452"
+    },
+    "decathlon-tech-compliance": {
+      "source": "dktunited/agent-skills",
+      "sourceType": "github",
+      "skillPath": "architecture/decathlon-tech-compliance/SKILL.md",
+      "computedHash": "6d3c65aa0ef9df135a7ee3c19d48b952693ec6bceafaa4955c89ad7b1ad33f4d"
+    },
+    "decathlon-tech-radar": {
+      "source": "dktunited/agent-skills",
+      "sourceType": "github",
+      "skillPath": "architecture/decathlon-tech-radar/SKILL.md",
+      "computedHash": "2cc7438a2e1beb2aae8c0d7936ece7824978ea7d0b5d79cb372907c1f89b33e1"
+    },
+    "delivery-metrics": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/delivery-metrics/SKILL.md",
+      "computedHash": "94afc31ffbaec37df4063197021af0412675400e1e6d3c078eea054a7fc8d6d6"
+    },
+    "deploy-to-pages": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/deploy-to-pages/SKILL.md",
+      "computedHash": "1c367459b4f0eed3144a4dfef1904c21a36f7ff9eca9042884d24bb8c7da8f96"
+    },
+    "deploy-to-protos": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/deploy-to-protos/SKILL.md",
+      "computedHash": "072721e599dcf395a3ddd5680b62d0694de943f160c6b6bb46dca37f57034949"
+    },
+    "google-workspace": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/google-workspace/SKILL.md",
+      "computedHash": "9fc74371150f77fd5cb7411282e0d61e181c4c6e7ca488d092280dd9393cfbf5"
+    },
+    "help-sre": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/help-sre/SKILL.md",
+      "computedHash": "af5ad9428926adc41a77431a7cdb15edc751a30d0500449fe0e0f27333d74792"
+    },
+    "incident-investigation": {
+      "source": "dktunited/agent-skills",
+      "sourceType": "github",
+      "skillPath": "reliability-operations/incident-investigation/SKILL.md",
+      "computedHash": "fdd1df4b0d3a9018ff5f9699c5c89d30007d52ec45960fd718181b671e574ca8"
+    },
+    "knowledge-graph-query": {
+      "source": "dktunited/asset-knowledge-graph",
+      "sourceType": "github",
+      "skillPath": "skills/knowledge-graph-query/SKILL.md",
+      "computedHash": "a60d30f13a1d352f95520fdf438889848cbdc1f68c945132f1b5849be4f4133d"
+    },
+    "knowledge-graph-visualizer": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/knowledge-graph-visualizer/SKILL.md",
+      "computedHash": "af805b7d032f0a869b387037e5439fc430030659b36024ee75bad0561d55f085"
+    },
+    "product-scalability-assessment": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/product-scalability-assessment/SKILL.md",
+      "computedHash": "5818129d7f0e908f0162f32b06417d58c24f46f5807ce881364f66fff3f5f1ad"
+    },
+    "protos-data-and-api-access": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/protos-data-and-api-access/SKILL.md",
+      "computedHash": "3b06b7e5031eb93da65826673717a227e4477260a73a3bf8c8d2e46b2df15244"
+    },
+    "slo-generator": {
+      "source": "dktunited/agent-skills",
+      "sourceType": "github",
+      "skillPath": "reliability-operations/slo-generator/SKILL.md",
+      "computedHash": "958b8524b2079a6bf81d687746d4c69d8f33b10fd7fb9009f9fee8a20f0d3505"
+    },
+    "time-portfolio-analysis": {
+      "source": "dktunited/ai-augmented-sdlc",
+      "sourceType": "github",
+      "skillPath": "skills/time-portfolio-analysis/SKILL.md",
+      "computedHash": "ebd3362d7b136170693991695c435613050c6d83f1cb1a81a98930ed0f155649"
+    },
+    "ux-research": {
+      "source": "dktunited/agent-skills",
+      "sourceType": "github",
+      "skillPath": "design/ux-research/SKILL.md",
+      "computedHash": "3398ad0eadbb46d58d38962775b424730fbf69a1384279f405daa62cedd3a3b0"
+    },
+    "web-accessibility-evaluation": {
+      "source": "dktunited/agent-skills",
+      "sourceType": "github",
+      "skillPath": "accessibility/web-accessibility-evaluation/SKILL.md",
+      "computedHash": "a716f35af89e035f3d254bc249bb03d29e0b2b1b83beacd3f42dab5ff2c658a0"
+    },
+    "web-ui-development": {
+      "source": "dktunited/agent-skills",
+      "sourceType": "github",
+      "skillPath": "frontend/web-ui-development/SKILL.md",
+      "computedHash": "c43706eeb0d67644d9c90aad07d7c1f79ee61d4a01e9db5c8874d99a14fab46a"
+    }
+  }
+}

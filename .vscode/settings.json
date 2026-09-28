@@ -1,0 +1,14 @@
+{
+  "decathlon-sdlc.organizationName": "dktunited",
+  "decathlon-sdlc.documentLanguage": "en",
+  "decathlon-sdlc.chatLanguage": "fr",
+  "github.copilot.enable": {
+    "*": true
+  },
+  "github.copilot.chat.agent.enabled": true,
+  "github.copilot.workingContext": {
+    "includeVariants": [
+      "decathlon-sdlc"
+    ]
+  }
+}
