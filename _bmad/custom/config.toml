@@ -5,6 +5,7 @@
 # BMM module configuration: defines team conventions for BMAD artifact locations
 [modules.bmm]
 planning_artifacts = "_specs"
+project_knowledge = "{project-root}/docs/context"
 
 # Each module under modules/ is installed by the installer loop.
 # SRE / Platform Reliability module: modules/sre-platform/
