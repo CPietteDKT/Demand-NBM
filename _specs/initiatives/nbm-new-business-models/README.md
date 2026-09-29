@@ -21,13 +21,22 @@
 
 *To be formalised — first objective of the discovery.*
 
+## Related initiatives — Wholesale / Resell
+
+The two workstreams below are distinct initiatives. The Business PO-flag approach is not part of the SAP Scheduling Agreement POC, and no dependency between them is assumed.
+
+| Initiative | Scope | Working documents |
+|---|---|---|
+| [SAP Scheduling Agreement POC](../sap-scheduling-agreement-poc/README.md) | Digital proposal to assess a Wholesale commitment flow with standard SAP Contracts and Scheduling Agreements; fit/gap is not yet decided. | [POC spec](../../specs/spec-poc-commitment-process-sap/SPEC.md) |
+| [Wholesale Demand & Inventory](../wholesale-demand-inventory/README.md) | Business work on planning inputs and the in-season Wholesale PO-flag approach, including the downstream synchronization gap. | [A4 business document](../wholesale-demand-inventory/research/a4-process-demand-inventory-management.md) |
+
 ## Folder layout
 
 | Path | Content |
 |---|---|
 | `research/` | Deep-recon outputs, interviews, as-is analyses |
 | `brief.md` | Problem / opportunity brief (product brief or PRFAQ) |
-| `spec/` | Transversal spec or PRD |
+| `../../specs/spec-<slug>/` | Canonical BMad specification |
 | `decisions.md` | Cross-product decisions log |
 | `handoff/<product>.md` | What each product project must take over |
 
